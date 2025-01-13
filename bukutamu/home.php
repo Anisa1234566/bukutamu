@@ -10,8 +10,8 @@
             align-items: center;
         }
         body {
-            background-color:rgb(140, 202, 240); /* Warna latar belakang biru muda */
-            height: 100vh; /* Tinggi layar penuh */
+            background-color:rgb(140, 202, 240); 
+            height: 100vh; 
             margin: 0;
             display: flex;
             justify-content: center;
@@ -23,8 +23,8 @@
             padding: 20px;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            max-width: 1000px; /* Batas lebar maksimal */
-            width: 100%; /* Lebar penuh */
+            max-width: 1000px; 
+            width: 100%; 
             text-align: center;
         }
         .bgform h3{
@@ -35,23 +35,23 @@
         
         .bgform .btn-success {
             border: none;
-            background-color: #28a745; /* Warna hijau untuk tombol "Buku Tamu" */
+            background-color: #28a745; 
         }
 
         .bgform .btn-danger {
-            background-color: #dc3545; /* Warna merah untuk tombol "Tampilkan" */
+            background-color: #dc3545; 
             border: none;
             color: white;
         }
 
         .bgform .btn-info {
-            background-color: #17a2b8; /* Warna biru untuk tombol "Search" */
+            background-color: #17a2b8; 
             border: none;
             color: white;
         }
 
         .bgform .btn:hover {
-            opacity: 0.9; /* Efek hover untuk semua tombol */
+            opacity: 0.9; 
         }
 
     </style>
