@@ -22,8 +22,8 @@
             align-items: center;
         }
         body {
-            background-color:rgb(140, 202, 240); /* Warna latar belakang biru muda */
-            height: 100vh; /* Tinggi layar penuh */
+            background-color:rgb(140, 202, 240); 
+            height: 100vh;
             margin: 0;
             display: flex;
             justify-content: center;
@@ -35,8 +35,8 @@
             padding: 20px;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            max-width: 1000px; /* Batas lebar maksimal */
-            width: 100%; /* Lebar penuh */
+            max-width: 1000px; 
+            width: 100%; 
             text-align: center;
         }
         .bgform h3{
